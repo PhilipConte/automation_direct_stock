@@ -1,0 +1,1 @@
+name = "automation_direct_stock"
