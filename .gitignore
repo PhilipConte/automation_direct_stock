@@ -1,6 +1,6 @@
 automation_direct_stock/__pycache__
+*.pyc
 automation_direct_stock.egg-info
 build
 dist
-test_files
 venv
