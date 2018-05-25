@@ -12,7 +12,14 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/PhilipConte/automation_direct_stock",
+    license='MIT',
     packages=setuptools.find_packages(),
+    install_requires=[
+        'requests',
+        'beautifulsoup4',
+    ],
+    scripts=['bin/adstock'],
+    keywords='automation direct stock',
     classifiers=(
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
