@@ -11,6 +11,7 @@ setuptools.setup(
     description="package checks Automation Direct's products' availability",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    download_url = 'https://github.com/PhilipConte/automation_direct_stock/archive/1.0.0.tar.gz',
     url="https://github.com/PhilipConte/automation_direct_stock",
     license='MIT',
     packages=setuptools.find_packages(),
