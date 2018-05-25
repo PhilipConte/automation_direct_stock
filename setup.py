@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="automation_direct_stock",
-    version="0.0.1",
+    version="1.0.0",
     author="Philip Conte",
     author_email="philipmconte@gmail.com",
     description="package checks Automation Direct's products' availability",

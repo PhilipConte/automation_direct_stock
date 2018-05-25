@@ -4,7 +4,14 @@
 A simple [python module](https://github.com/PhilipConte/automation_direct_stock) to easily check if the product at a given url on automationdirect.com is in stock
 
 ## Installation
-Requires Python 3 and pip
+**Requires Python 3 and pip**
+
+From the PyPI:
+```bash
+pip install [--user] automation_direct_stock
+```
+
+From GitHub:
 ```bash
 # Clone this repository
 git clone https://github.com/PhilipConte/automation_direct_stock.git
